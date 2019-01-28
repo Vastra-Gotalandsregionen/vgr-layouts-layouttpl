@@ -34,5 +34,11 @@
 			<thumbnail-path>/vgr_layout_75_25.png</thumbnail-path>
 		</layout-template>
 
+		<!-- Vega -->
+		<layout-template id="rp_layout_1_2_cols_1" name="RP 1-2-cols-1 (DEP)">
+			<template-path>/rp_layout_1_2_cols_1.tpl</template-path>
+			<thumbnail-path>/rp_layout_1_2_cols_1.png</thumbnail-path>
+		</layout-template>
+
 	</custom>
 </layout-templates>
